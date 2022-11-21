@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justanother-120
-- 👀 I’m interested in expanding my Java knowlege through modding games coded in Java.
-- 🌱 I’m currently learning how to mod minecraft 1.18.2.
-- 💞️ I’m looking to collaborate on the creation and development of mods and other projects that are coded in Java.
+- 👀 I’m interested in expanding my Java knowlege.
+- 🌱 I’m currently learning about interfaces in Java
+- 💞️ I’m looking to collaborate any projects that will help me to learn more about the Java language
 - 📫 You can reach me through my email: loganamato120@gmail.com. 
 
 <!---
